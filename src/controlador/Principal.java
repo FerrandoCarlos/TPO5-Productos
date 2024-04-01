@@ -4,11 +4,11 @@ package controlador;
 /**
  * @author Ferrando Carlos
  */
-public class Pincipal {
+public class Principal {
 
    
     public static void main(String[] args) {
-        
+        ProductoController.mostrar();
     }
 
 }
